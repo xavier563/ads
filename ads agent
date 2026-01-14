@@ -1,4 +1,4 @@
-i want to add another demo agent page. do i just duplicate in github and change the agent id and the copywriting? <!doctype html>
+<!doctype html>
 <html lang="en">
   <head>
     <meta charset="utf-8" />
@@ -172,7 +172,7 @@ i want to add another demo agent page. do i just duplicate in github and change 
     <div class="card">
       <div class="header">
         <div>
-          <h1 class="title">Client Reactivator</h1>
+          <h1 class="title">Lead Conversion Agent</h1>
           <p class="subtitle">
             Converts 10-25% more leads by calling within 60 seconds and guiding them to the next step.
           </p>
@@ -195,7 +195,7 @@ i want to add another demo agent page. do i just duplicate in github and change 
       import Vapi from "https://esm.sh/@vapi-ai/web";
 
       const PUBLIC_KEY = "6bfca023-3a7f-4665-8ffe-1ebcc8774bef";
-      const ASSISTANT_ID = "840001ae-c56e-4f76-9344-540e2a9e5766";
+      const ASSISTANT_ID = "d195e5a5-548a-450a-a863-6cc4a07b7711";
 
       const startBtn = document.getElementById("start");
       const stopBtn = document.getElementById("stop");
